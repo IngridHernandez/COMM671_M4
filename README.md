@@ -1,6 +1,6 @@
 # COMM671_M4
 
-+B ## Learning Git hub
+ ##** Learning Git hub**
  - Soft Skills
 
  

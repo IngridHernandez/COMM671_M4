@@ -4,9 +4,11 @@
 
 - Soft Skills
 
-  + + Created this cat for a friend.
+ 
 
 ![Cat image I created for a friend](https://ingridhernandez55.com/Imagesportfolio/MichelleCat.png)
+
+ + + Created this cat for a friend.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">

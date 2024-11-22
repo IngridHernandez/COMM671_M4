@@ -5,7 +5,7 @@
 - Soft Skills
 
  
-- - Created this cat for a friend.
+- I created this cat for a friend.
 ![Cat image I created for a friend](https://ingridhernandez55.com/Imagesportfolio/MichelleCat.png)
 
 

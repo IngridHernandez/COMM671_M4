@@ -2,6 +2,6 @@
 
 Learning Git hub
 
-Soft Skills
+_Soft Skills
 
 ![Cat image I created for a friend](https://ingridhernandez55.com/Imagesportfolio/MichelleCat.png)

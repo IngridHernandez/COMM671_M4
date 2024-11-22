@@ -1,8 +1,7 @@
 # COMM671_M4
 
 ## Learning Git hub
-
-- Soft Skills
+ - Soft Skills
 
  
 - I created this cat for a friend.

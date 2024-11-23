@@ -6,7 +6,7 @@
    **Bold**
 
  
-- I created this cat for a friend.
+_I created this cat for a friend._
 ![Cat image I created for a friend](https://ingridhernandez55.com/Imagesportfolio/MichelleCat.png)
 
 
